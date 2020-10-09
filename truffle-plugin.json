@@ -1,0 +1,5 @@
+{
+  "commands": {
+    "sync": "sync.js"
+  }
+}
